@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anconfig>
+  <morfeus url="http://sisx04.si.ehu.es:8080/MorfeusZerbitzaria/services/Morfeus" />
+  <freeling dir="../freeling/"/>
+  <hizkuntzak>
+    <hizkuntza id="ca">Katalana</hizkuntza>
+  </hizkuntzak>
+</anconfig>
