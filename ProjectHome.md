@@ -1,0 +1,1 @@
+Testuen arteko antzekotasunak aztertzeko aplikazioa
